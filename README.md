@@ -1,6 +1,6 @@
 <div align="center"> 
-    <img src="https://skillicons.dev/icons?i=react,js,jquery,typescript,nextjs,c,python" />
-    <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,postgres,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,js,jquery,typescript,nextjs,c,python" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,postgres,mysql" />
 </div>
 
 
