@@ -1,7 +1,5 @@
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,firebase,postman" />
-
-  <img src="https://skillicons.dev/icons?i=react,js,jquery,typescript,nextjs,c,python" />
+<div align="center"> 
+    <img src="https://skillicons.dev/icons?i=react,js,jquery,typescript,nextjs,c,python" />
     <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,postgres,mysql" /><br>
 </div>
 
