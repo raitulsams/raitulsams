@@ -9,16 +9,10 @@
 </div>
 
 ###
-<div align="center">
-  <a href="https://www.linkedin.com/in/raitulsams" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"  height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://discord.com/users/raitulsams" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"  height="25" alt="discord logo" />
-  </a>
-  <a href="https://www.behance.net/raitulsams" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" height="25" alt="behance logo" />
-  </a> 
+<div align="center" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/raitulsams" target="_blank" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"  height="25" alt="linkedin logo" /></a>
+  <a href="https://discord.com/users/raitulsams" target="_blank" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"  height="25" alt="discord logo" /></a>
+  <a href="https://www.behance.net/raitulsams" target="_blank" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" height="25" alt="behance logo" /></a> 
 </div>
 
 
