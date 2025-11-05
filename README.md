@@ -1,15 +1,12 @@
 <!-- 🌊 Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=&fontAlign=50&animation=fadeIn&reversal=false"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=🚀%20Tech%20Stack&fontSize=16&fontAlignY=20&fontAlign=50&animation=fadeIn&reversal=false"/>
 </div>
 
 <!-- ⚙️ Skills Section -->
-<div align="center"> 
-  <h3>🚀 Tech Stack</h3>
-  <p>
+<div align="center">  
     <img src="https://skillicons.dev/icons?i=react,js,typescript,nextjs,jquery,c,cpp,python,vite" /><br>
     <img src="https://skillicons.dev/icons?i=postman,nodejs,firebase,mongodb,postgres,mysql,docker" />
-  </p>
 </div>
 
 ---
@@ -36,16 +33,9 @@
 ---
 
 <!-- 🔗 Social Links -->
-<div align="center">
-  <h3>🌐 Connect with Me</h3>
-  <p>
+<div align="center">  
     <a href="https://www.linkedin.com/in/raitulsams" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="35" alt="LinkedIn" /></a>&nbsp;&nbsp;
     <a href="https://discord.com/users/raitulsams" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="35" alt="Discord" /></a>&nbsp;&nbsp;
-    <a href="https://www.behance.net/raitulsams" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" height="35" alt="Behance" /></a>
-  </p>
-</div>
-
-<!-- 🌊 Footer -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+    <a href="https://www.behance.net/raitulsams" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" height="35" alt="Behance" /></a> 
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&text=🌐%20Connect%20With%20Me&fontSize=16&fontAlignY=70&fontAlign=50&animation=fadeIn&reversal=false"/>
 </div>
