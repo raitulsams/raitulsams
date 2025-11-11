@@ -15,7 +15,7 @@
 <!-- 📊 GitHub Stats -->
 <div align="center">
   <h3>📈 GitHub Insights</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=raitulsams&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=raitulsams&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raitulsams&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
