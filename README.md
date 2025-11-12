@@ -2,11 +2,14 @@
 <!-- <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=16&fontAlignY=20&fontAlign=50&animation=fadeIn&reversal=false&text=🚀%20Tech%20Stack"/>
 </div> -->
+###
 
 <div align="left">
   <!-- <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> -->
-  Hey, it's nice seeing you here.
+ <h2> Hi, it's nice seeing you here <img src="https://raw.githubusercontent.com/raitulsams/raitulsams/main/wave.gif" width="24"> </h2>
 </div>
+
+###
 
 ###
 
@@ -16,12 +19,7 @@
   <a href="https://discord.com/users/raitulsams" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" height="25" alt="discord logo"  /></a>
 </div> 
 
-### 
-
-<!-- <h1 align="center">hey there 👋</h1> -->
-
-<!-- ⚙️ Skills Section -->
-###
+###  
 
 <h3 align="left">🛠 Language and tools</h3> 
 <div align="left">   
@@ -30,9 +28,6 @@
 </div>
 
 ###
- 
-
-<!-- 📊 GitHub Stats -->
 
 <h3 align="left">📈 GitHub insights</h3>
 <div align="left">
