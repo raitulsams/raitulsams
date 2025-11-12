@@ -1,6 +1,6 @@
 <div align="center">
   <!-- <img height="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/> -->
-  <h3> Hey, it's nice seeing you here.. <img src="https://raw.githubusercontent.com/raitulsams/raitulsams/main/wave.gif" width="24"> </h3> 
+  <h1> Hey, it's nice seeing you here.. <img src="https://raw.githubusercontent.com/raitulsams/raitulsams/main/wave.gif" width="30"> </h1> 
 </div>
 
 
