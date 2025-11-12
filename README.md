@@ -3,13 +3,14 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=16&fontAlignY=20&fontAlign=50&animation=fadeIn&reversal=false&text=🚀%20Tech%20Stack"/>
 </div> -->
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div align="left">
+  <!-- <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> -->
+  Hey, it's nice seeing you here.
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/raitulsams" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25" alt="linkedin logo"  /></a>
   <a href="https://www.behance.net/raitulsams" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white" height="25" alt="behance logo"  /></a>
   <a href="https://discord.com/users/raitulsams" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" height="25" alt="discord logo"  /></a>
@@ -33,10 +34,10 @@
 
 <!-- 📊 GitHub Stats -->
 
-<h3 align="left">📈 GitHub Insights</h3>
+<h3 align="left">📈 GitHub insights</h3>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=raitulsams&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raitulsams&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=raitulsams&hide_title=true&card_width=420&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&rank_icon=github" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raitulsams&locale=en&hide_title=true&layout=compact&card_width=520&langs_count=50&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
