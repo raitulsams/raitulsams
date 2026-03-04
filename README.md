@@ -22,8 +22,8 @@
 
 <h3 align="center">📈 GitHub insights</h3> 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=raitulsams&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide=contribs&bg_color=00000000&rank_icon=github">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=raitulsams&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css&exclude_repo=Pacman-AI">
+  <!-- <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=raitulsams&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide=contribs&bg_color=00000000&rank_icon=github">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=raitulsams&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css&exclude_repo=Pacman-AI"> -->
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
